@@ -1,4 +1,4 @@
-# Quizzical quiz app
+# About
 
 Final solo project from the [Scrimba's "Learn React"](https://scrimba.com/learn/learnreact) course, developed from scratch.
 
